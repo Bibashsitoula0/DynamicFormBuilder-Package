@@ -18,5 +18,6 @@ Install via NuGet (if available) `dotnet add package DynamicFormBuilder --versio
 
 Install via Package Manager (if available) `Install-Package DynamicFormBuilder -Version 1.0.0`
 
+Configure `builder.Services.AddSingleton<FormGeneratorService>();` Inside Program.cs file.
 
 ![image](https://github.com/user-attachments/assets/6a3cb2d7-049b-4887-baf1-05d11634a5d9)
