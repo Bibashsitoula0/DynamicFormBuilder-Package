@@ -25,4 +25,4 @@ Configure `builder.Services.AddSingleton<FormGeneratorService>();` Inside Progra
 
 ![image](https://github.com/user-attachments/assets/d2e23c09-033f-43b5-8355-76c691d1ce23)
 
-Automatically generates forms based on your model and its properties and complex types.
+Automatically generates forms based on your model and its properties.
