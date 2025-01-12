@@ -1,0 +1,15 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageId>DynamicFormBuilder</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Bibash Sitoula</Authors>
+		<Description>A dynamic form builder package for ASP.NET Core</Description>
+		<PackageTags>FormBuilder, ASP.NET Core, DynamicForms</PackageTags>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Html.Abstractions" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+	</ItemGroup>
+</Project>
