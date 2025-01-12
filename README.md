@@ -14,9 +14,9 @@ The library supports basic form fields, including text inputs, number fields, ch
 # Installation
 To install Dynamic Form Builder in your ASP.NET Core project, you can either download the DLL or install the package via NuGet if it's published.
 
-Install via NuGet (if available) `dotnet add package DynamicFormBuilder --version 1.0.0`.
+Install via NuGet (if available) `dotnet add package DynamicFormBuilder --version 1.1.0`.
 
-Install via Package Manager (if available) `Install-Package DynamicFormBuilder -Version 1.0.0`
+Install via Package Manager (if available) `Install-Package DynamicFormBuilder -Version 1.1.0`
 
 Configure `builder.Services.AddSingleton<FormGeneratorService>();` Inside Program.cs file.
 
