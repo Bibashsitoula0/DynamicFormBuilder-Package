@@ -21,3 +21,8 @@ Install via Package Manager (if available) `Install-Package DynamicFormBuilder -
 Configure `builder.Services.AddSingleton<FormGeneratorService>();` Inside Program.cs file.
 
 ![image](https://github.com/user-attachments/assets/6a3cb2d7-049b-4887-baf1-05d11634a5d9)
+
+
+![image](https://github.com/user-attachments/assets/d2e23c09-033f-43b5-8355-76c691d1ce23)
+
+Automatic Form Generation: Automatically generates forms based on your model and its properties, handling nested models and complex types.
